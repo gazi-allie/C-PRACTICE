@@ -154,5 +154,6 @@ class Program
         string finalResult = myWhiteboard.ToString();
 
         Console.WriteLine($"Finished! The string is {finalResult.Length} characters long.");
+        Console.WriteLine("the end  of");
     }
 }
